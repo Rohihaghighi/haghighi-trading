@@ -20,7 +20,31 @@
     .lang-switch { position: absolute; top: 10px; left: 10px; color: #fff; background: #004d40; padding: 5px 10px; border-radius: 5px; text-decoration: none; }
   </style>
 </head>
-<body>
+<body><section>
+  <h2>محصولات صادراتی</h2>
+  <div class="products">
+    <div class="product">
+      <img src="apple.jpg" alt="سیب">
+      <p>سیب</p>
+    </div>
+    <div class="product">
+      <img src="date.jpg" alt="خرما">
+      <p>خرما</p>
+    </div>
+    <div class="product">
+      <img src="car_parts.jpg" alt="لوازم جانبی خودرو">
+      <p>لوازم جانبی خودرو</p>
+    </div>
+    <div class="product">
+      <img src="laptop.jpg" alt="لپ‌تاپ">
+      <p>لپ‌تاپ</p>
+    </div>
+    <div class="product">
+      <img src="excavator.jpg" alt="بیل مکانیکی">
+      <p>بیل مکانیکی</p>
+    </div>
+  </div>
+</section>
 
 <a class="lang-switch" href="index-en.html">EN</a>
 
