@@ -20,7 +20,37 @@
       background-color: #00796b;
       padding: 10px;
       text-align: center;
-    }
+    } <section>
+  <h2>محصولات صادراتی</h2>
+  <div class="products">
+
+    <div class="product">
+      <img src="apple.jpg" alt="سیب">
+      <p>سیب</p>
+    </div>
+
+    <div class="product">
+      <img src="date.jpg" alt="خرما">
+      <p>خرما</p>
+    </div>
+
+    <div class="product">
+      <img src="car_parts.jpg" alt="لوازم خودرو">
+      <p>لوازم جانبی خودرو</p>
+    </div>
+
+    <div class="product">
+      <img src="laptop.jpg" alt="لپ‌تاپ">
+      <p>لپ‌تاپ</p>
+    </div>
+
+    <div class="product">
+      <img src="excavator.jpg" alt="بیل مکانیکی">
+      <p>بیل مکانیکی</p>
+    </div>
+
+  </div>
+</section>
     nav a {
       color: white;
       margin: 0 15px;
